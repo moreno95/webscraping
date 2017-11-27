@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+# Author: Albert Moreno
 import requests
 from bs4 import BeautifulSoup
 import csv
