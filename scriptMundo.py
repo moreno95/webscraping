@@ -1,5 +1,6 @@
 #! /usr/bin/python
 # -*- coding: utf-8 -*-
+# Albert Moreno
 import requests
 from bs4 import BeautifulSoup
 import csv
